@@ -1,7 +1,7 @@
 import csv
 import requests
 import urllib.parse
-
+# google map api
 API_KEY = 'AIzaSyC_VHUB2js-NasURML-iXxlKNbqioox3kY'
 # GEOCODE_BASE_URL = 'https://maps.googleapis.com/maps/api/geocode/json'
 # STATIC_MAP_BASE_URL = 'https://maps.googleapis.com/maps/api/staticmap'
