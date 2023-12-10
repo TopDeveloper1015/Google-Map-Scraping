@@ -8,7 +8,7 @@ API_KEY = 'AIzaSyC_VHUB2js-NasURML-iXxlKNbqioox3kY'
 STREET_VIEW_BASE_URL = 'https://maps.googleapis.com/maps/api/streetview'
 COUNTRY = 'France'
 #Audio fix
-
+# csv file loader
 with open('address_100_sample_NEW.csv', 'r') as csv_file:
     reader = csv.reader(csv_file)
 
